@@ -1,8 +1,6 @@
 ﻿# VisionSuite Core
 ---
 
-## 🇹🇷 Türkçe
-
 ### 🎯 Amaç
 Endüstride birçok senaryoda ürünlerin **konum ve yönelim açısı** kritik öneme sahiptir.  
 Fakat geniş ölçekli **etiketlenmiş veri** toplamak maliyetlidir.  
