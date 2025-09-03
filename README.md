@@ -26,7 +26,6 @@ Bu projede hedefimiz:
 ---
 
 ### 📦 Kurulum
-```bash
 git clone https://github.com/<kullanici>/<repo>.git
 cd <repo>
 pip install -r requirements.txt
