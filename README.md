@@ -1,5 +1,4 @@
-﻿# VisionSuite Core — Synthetic Data Training from a Single Photo
-
+﻿# VisionSuite Core
 ---
 
 ## 🇹🇷 Türkçe
