@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+*.py   text eol=lf
+*.md   text eol=lf
+
+*.cs      text eol=crlf working-tree-encoding=UTF-8
+*.csproj  text eol=crlf
+*.sln     text eol=crlf
+
+*.png binary
+*.jpg binary
